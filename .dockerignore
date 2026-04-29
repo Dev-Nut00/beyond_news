@@ -1,0 +1,9 @@
+.git
+.github
+.mypy_cache
+**/__pycache__
+**/*.pyc
+backend/output
+infra
+terminals
+agent-transcripts

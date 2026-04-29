@@ -1,0 +1,92 @@
+{
+  "meta": {
+    "source": "중앙일보 RSS",
+    "rss_url": "https://news.google.com/rss/search?q=site:joongang.co.kr&hl=ko&gl=KR&ceid=KR:ko",
+    "generated_at": "2026-04-29T20:45:49.790016+00:00",
+    "article": {
+      "title": "마사지 받다 잠들자 황당 서비스…“피부 괴사됐다” 무슨 일 - 중앙일보",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53cV9FemlYSEMzc0ljZmQ3amZFWU4xOXB4LWhFZlpkQlg4WW5jbkNMcExDUXRvLUdZQTQ4ejh0eFlicklUQzZMcVpNcUZBckJmWVR0WGFn?oc=5",
+      "pub_date": "Wed, 29 Apr 2026 03:44:32 GMT"
+    },
+    "article_candidates": [
+      {
+        "index": 0,
+        "title": "[속보] 트럼프 “이란, ‘붕괴상태’라고 좀 전 우리에게 알려와” - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE03b1loWURSMjNldzdyMVVfYnV2TVVQeWR4dGdfdXBmaWxDTFhycU5yM2diVWpaTTRGZ2tTVC0zUGRscnVPZjhLbmI1TUhfcEJPbEdDWTJn?oc=5",
+        "pub_date": "Tue, 28 Apr 2026 13:50:32 GMT"
+      },
+      {
+        "index": 1,
+        "title": "마사지 받다 잠들자 황당 서비스…“피부 괴사됐다” 무슨 일 - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53cV9FemlYSEMzc0ljZmQ3amZFWU4xOXB4LWhFZlpkQlg4WW5jbkNMcExDUXRvLUdZQTQ4ejh0eFlicklUQzZMcVpNcUZBckJmWVR0WGFn?oc=5",
+        "pub_date": "Wed, 29 Apr 2026 03:44:32 GMT"
+      },
+      {
+        "index": 2,
+        "title": "47세 배우 한다감, 결혼 6년 만에 임신…“연예계 최고령 산모” - 중앙일보",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9kdXkyN1RRNkhaSmR5S0pGSWx1N2VGbnI4VmpFakhraVBEMXFDVXdQNVZNNWgtWTcwZ2JXUVRKWlRoX05qeDd5ajlrRUdxZUg2emEzRnVB?oc=5",
+        "pub_date": "Tue, 28 Apr 2026 01:19:05 GMT"
+      }
+    ],
+    "article_selected_index": 1
+  },
+  "nodes": [
+    {
+      "id": "괴사됐다",
+      "label": "괴사됐다",
+      "type": "CONCEPT"
+    },
+    {
+      "id": "무슨",
+      "label": "무슨",
+      "type": "CONCEPT"
+    },
+    {
+      "id": "서비스",
+      "label": "서비스",
+      "type": "CONCEPT"
+    },
+    {
+      "id": "잠들자",
+      "label": "잠들자",
+      "type": "CONCEPT"
+    },
+    {
+      "id": "피부",
+      "label": "피부",
+      "type": "ORG"
+    },
+    {
+      "id": "황당",
+      "label": "황당",
+      "type": "ORG"
+    }
+  ],
+  "edges": [
+    {
+      "source": "괴사됐다",
+      "target": "무슨",
+      "relation": "언급했다"
+    },
+    {
+      "source": "서비스",
+      "target": "피부",
+      "relation": "언급했다"
+    },
+    {
+      "source": "잠들자",
+      "target": "황당",
+      "relation": "언급했다"
+    },
+    {
+      "source": "피부",
+      "target": "괴사됐다",
+      "relation": "언급했다"
+    },
+    {
+      "source": "황당",
+      "target": "서비스",
+      "relation": "언급했다"
+    }
+  ]
+}
